@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/02db410ef9af468da224b9910be0c628/artifacts
+end_time: 1739985031621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02db410ef9af468da224b9910be0c628
+run_name: incongruous-seal-45
+run_uuid: 02db410ef9af468da224b9910be0c628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739985031563
+status: 3
+tags: []
+user_id: csc

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dff739af9ce3437c88a03a1bd9e45e41/artifacts
+end_time: 1739984660660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dff739af9ce3437c88a03a1bd9e45e41
+run_name: fearless-koi-58
+run_uuid: dff739af9ce3437c88a03a1bd9e45e41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739984660585
+status: 3
+tags: []
+user_id: csc
