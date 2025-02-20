@@ -33,5 +33,17 @@ with mlflow.start_run():
     mlflow.log_param('max_depth', max_depth)
     mlflow.log_param('n_estimators', n_estimators)
     
+    #creating confusion matrix plot
+    cm = confusion_matrix(y_test, y_pred)
+    plt.figure(figsize=(6,6))
+    sns.heatmap(cm,annot=True,fmt='d', cmap='Blues',xticklabels=wine.target_names, yticklabels=wine.target_names)
+    plt.ylabel('Actual')
+    plt.xlabel('Predicted')
+    plt.title('Confusion Matrix')
+    plt.savefig("Confusion-matrix.png")
 
+    # log artifacts using mlflow
+    mlflow.log_artifact("Confusion-matrix.png")
+    mlflow.log_artifact(__file__)
+    
     print(accuracy)
