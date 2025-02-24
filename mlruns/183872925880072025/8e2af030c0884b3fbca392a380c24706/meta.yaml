@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/2025%20learnings/MLOps/MLFlow/MLFlow/mlruns/183872925880072025/8e2af030c0884b3fbca392a380c24706/artifacts
+end_time: 1740378814247
+entry_point_name: ''
+experiment_id: '183872925880072025'
+lifecycle_stage: active
+run_id: 8e2af030c0884b3fbca392a380c24706
+run_name: resilient-kite-417
+run_uuid: 8e2af030c0884b3fbca392a380c24706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740378806134
+status: 3
+tags: []
+user_id: csc
