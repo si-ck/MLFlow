@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/296c137366104ab79521b315a844bcc3/artifacts
+end_time: 1740372831870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 296c137366104ab79521b315a844bcc3
+run_name: amazing-steed-392
+run_uuid: 296c137366104ab79521b315a844bcc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740372831479
+status: 3
+tags: []
+user_id: csc
