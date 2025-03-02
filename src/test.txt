@@ -1,0 +1,14 @@
+## server link
+https://dagshub.com/si-ck/MLFlow.mlflow
+
+
+
+## Repo details
+  import dagshub
+dagshub.init(repo_owner='si-ck', repo_name='my-first-repo', mlflow=True)
+
+#installation of dagshub
+%pip install -q dagshub mlflow
+
+
+mlflow.autolog()
